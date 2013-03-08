@@ -1,5 +1,5 @@
 .data
-	result: 	.word 0
+	result:	.word 0
 .text
 
 main:

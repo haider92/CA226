@@ -1,5 +1,5 @@
 .data
-	Answer: 	.word 0
+	Answer:	.word 0
 .text
 
 main:
@@ -14,4 +14,4 @@ main:
 
 	sd r2,Answer(R0)
 	
-halt
+	halt

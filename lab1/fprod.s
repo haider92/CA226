@@ -1,7 +1,7 @@
 .data
-	A:    .double 3.141
-	B:    .double 2.444986
-	C:    .double 0.0
+	A:	.double 3.141
+	B:	.double 2.444986
+	C:	.double 0.0
 .text
 
 main:

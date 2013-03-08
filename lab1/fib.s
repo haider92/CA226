@@ -1,7 +1,5 @@
 .data
-
-result: 	.word 0
-
+	result:	.word 0
 .text
 main:
 	daddi r1,r0,1	; First Number
